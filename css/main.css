@@ -648,7 +648,7 @@ button.big-white:active {
   position: relative;
   display: inline-block;
   float: left;
-  padding: 10px 10px 0px 10px;  
+  padding: 10px 10px 5px 10px;  
   border-right: 1px solid #484b44;
 }
 .menu-wrapper .main-menu ul.sf-menu > li a {
